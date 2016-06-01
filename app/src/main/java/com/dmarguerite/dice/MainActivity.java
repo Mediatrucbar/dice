@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, DiceActivity.class);
                 startActivity(intent);
+                intent.putExtra("max", 6);
             }
         });
 
@@ -28,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, DiceActivity.class);
                 startActivity(intent);
+                intent.putExtra("max", 20);
             }
         });
     }
