@@ -4,16 +4,16 @@
         "source": "/home/damien/workspace/dice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/home/damien/workspace/dice/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/damien/workspace/dice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+        "merged": "/home/damien/workspace/dice/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/damien/workspace/dice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/home/damien/workspace/dice/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
         "source": "/home/damien/workspace/dice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/damien/workspace/dice/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/damien/workspace/dice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+        "merged": "/home/damien/workspace/dice/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/damien/workspace/dice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/home/damien/workspace/dice/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
