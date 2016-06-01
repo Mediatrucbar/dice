@@ -16,7 +16,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".DiceActivity">
+        <activity android:name=".DiceActivity"/>
 
     </application>
 
